@@ -1,0 +1,17 @@
+.pic1{
+    background-color: red;
+    height: 800px;
+    width: 100%;
+    background-image: url("https://www.looper.com/img/gallery/inside-out-2-release-date-cast-director-and-more-details/intro-1699549794.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.pic2{
+    width: 100%;
+    height: 800px;
+    background-image: url("https://cdn0-production-images-kly.akamaized.net/1RA_dskVbC1W7DhqnKiajSC9j1w=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4644442/original/090380500_1699680286-SmartSelect_20231111_122217_Opera.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
